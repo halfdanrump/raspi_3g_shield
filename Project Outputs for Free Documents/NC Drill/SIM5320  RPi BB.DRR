@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SIM5320  RPi BB.PcbDoc   25/03/2016  20:51:34
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SIM5320  RPi BB.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.6mm (23.622mil)        Round          2                1.27 mm (0.05 Inch)
+T2        0.7112mm (28mil)         Round          24               173.60 mm (6.83 Inch)
+T3        0.9mm (35.433mil)        Round          36               185.24 mm (7.29 Inch)
+---------------------------------------------------------------------------
+Totals                                            62               360.11 mm (14.18 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
